@@ -8,11 +8,11 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anany-D&show_icons=true&theme=dark&hide_title=true" />
-  <img src="https://streak-stats.demolab.com?user=Anany-D&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anany-D&layout=compact&theme=dark" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Anany-D&show_icons=true&theme=dark&hide_title=true)
+
+![Streak](https://streak-stats.demolab.com?user=Anany-D&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anany-D&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anany-D&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
