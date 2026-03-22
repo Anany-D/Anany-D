@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently sharpening my DSA and problem-solving skills  <br>👯 I’m looking to collaborate on beginner-friendly open source projects  <br>🤝 I’m looking for guidance in backend development & system design  <br>🌱 I’m currently learning DBMS, OS, Java backend, Linux, and SQL  <br>💬 Ask me about DSA, Java, C++, SQL, and coding strategies  <br>⚡ Fun fact: I enjoy solving problems more than watching movies 😄  
 
 
